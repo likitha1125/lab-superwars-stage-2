@@ -38,7 +38,6 @@
     text-align: center;
 }
 
-.footer{
-    margin-left: 80px;
-    font-size: 18px;
+h2,h4{
+    font-weight: lighter;
 }
